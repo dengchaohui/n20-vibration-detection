@@ -1,0 +1,7 @@
+build/
+managed_components/
+sdkconfig
+*.csv
+*.h5
+*.tflite
+*.h
